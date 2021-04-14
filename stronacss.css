@@ -22,12 +22,13 @@ header {
 	text-align: center;
 	width: 34%;
 	height: 200px;
+	float: left;
 }
 #prawy a{
 	background-color: yellow;
 	color: blue;
 	padding: 10px;
-	float: left;
+	
 }
 #dolny{
 	background-color: #86ACDD;
